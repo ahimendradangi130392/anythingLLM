@@ -10,7 +10,7 @@ dns.setDefaultResultOrder("verbatim")
 // https://vitejs.dev/config/
 export default defineConfig({
   server: {
-    port: 3000,
+    port: 3002,
     host: "localhost"
   },
   define: {
